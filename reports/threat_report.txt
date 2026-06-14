@@ -1,0 +1,13 @@
+THREAT REPORT
+========================================
+Generated: 2026-06-14 10:47:42.652422
+
+Top Events:
+Event ID 5379: 23703
+Event ID 4798: 5742
+Event ID 4624: 1291
+Event ID 4672: 1221
+Event ID 4799: 328
+
+Risk Level: LOW
+Recommendation: Continue Monitoring
